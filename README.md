@@ -1,1 +1,1 @@
-Bank application Repo
+Bank application repository
