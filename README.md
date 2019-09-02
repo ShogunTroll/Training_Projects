@@ -1,1 +1,1 @@
-Bank application using collection
+Bank application repository
